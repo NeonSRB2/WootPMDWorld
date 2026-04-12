@@ -1,0 +1,22 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+    },
+    "last.imagePath": "/home/jackson/Documents/everything/PMDSonaWorld",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "openFiles": [
+    ],
+    "project": "Maps.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

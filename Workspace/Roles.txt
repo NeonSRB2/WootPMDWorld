@@ -1,0 +1,20 @@
+Participants:
+
+Iris (Ampharos)
+- Move Linking
+- Storytelling
+-- Translator
+
+
+
+- Food shop
+- Seed/Orb shop
+- TM Shop
+- Storage
+- Bank
+- Move manager
+- Appraisals
+- Fishing
+- Party setup/Friend bell
+- Guildmaster
+- Guild Member
